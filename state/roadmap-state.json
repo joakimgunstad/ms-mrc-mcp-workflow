@@ -1,0 +1,3192 @@
+{
+ "last_run": "2026-11-05T00:00:00+01:00",
+ "items": {
+  "561025": {
+   "title": "SharePoint: Power Automate trigger and action for forms in SharePoint",
+   "products": [
+    "Microsoft 365",
+    "Power Automate",
+    "SharePoint"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-04-29T23:15:48.6218529Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "561026": {
+   "title": "Microsoft Copilot (Microsoft 365): Generate documents using forms in SharePoint with Power Automate",
+   "products": [
+    "Power Automate",
+    "SharePoint",
+    "Microsoft Copilot (Microsoft 365)"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-04T00:02:09.0247841Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "562220": {
+   "title": "Microsoft Copilot Studio: Supercharge your workflows with computer use",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Copilot Studio"
+   ],
+   "status": "Cancelled",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-26T23:15:50.3506773Z",
+   "badge": "CANCEL",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "562221": {
+   "title": "Microsoft Copilot Studio: Use MCP-compliant tools in agent workflows",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-05-15T18:00:35.7626991Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "562222": {
+   "title": "Microsoft Copilot Studio: Invoke agents as workflow steps with the agent node",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-05-14T23:15:59.0245387Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "566859": {
+   "title": "Microsoft Copilot Studio: Use SharePoint lists as a knowledge source",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-07",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-07-07T23:01:01.6729014Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "566873": {
+   "title": "Microsoft Copilot Studio: Enforce safe sharing by detecting credential oversharing",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-07",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-07-01T23:03:18.2442931Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "566997": {
+   "title": "Microsoft Copilot Studio: Block the use of maker-provided credentials for authentication",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": "2025-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-07-02T23:12:48.2177075Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "566998": {
+   "title": "Microsoft Copilot Studio: Invoke agents as workflow steps with the agent node",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Copilot Studio"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-26T23:15:50.3506773Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "566999": {
+   "title": "Microsoft Copilot Studio: Enable express mode for flows invoked by an agent or app",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2025-11",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-07-10T21:58:35.1674832Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "567894": {
+   "title": "Microsoft Copilot Studio: Share Autonomous Agents to End Users (Run-Only)",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-07-20T22:37:15.9046041Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "568762": {
+   "title": "Microsoft Copilot Studio: Agent Readiness in Microsoft Copilot Studio",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-01T23:00:07.0386131Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "568929": {
+   "title": "Microsoft Copilot Studio: Dataverse integration on Copilot Studio",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-08-10T22:43:02.2979269Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "568930": {
+   "title": "Microsoft Copilot Studio: SQL server Support in Microsoft Copilot Studio",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-08-07T21:45:15.0624842Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "569474": {
+   "title": "Microsoft Copilot Studio: Introducing an App- and Intent-First Agent Creation Experience",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-02T22:56:59.2759925Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "569475": {
+   "title": "Microsoft Copilot Studio: Agent Sharing amongst makers",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-28T23:04:31.7166235Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "569607": {
+   "title": "Microsoft Copilot Studio: Improvements to agent evaluations experience",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-08-19T22:58:06.3397738Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "569930": {
+   "title": "Microsoft Copilot Studio: Conversational configuration of connectors in Copilot Studio",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "Rolling out",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-09T22:04:35.4607568Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570430": {
+   "title": "Microsoft Copilot Studio: Persistent identity for Copilot Studio Agents",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-30T23:31:03.3895855Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570432": {
+   "title": "Microsoft Copilot Studio: Self-learning for Copilot Studio Agents",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-30T23:31:03.3895855Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570433": {
+   "title": "Microsoft Copilot Studio: Deliver rich interactive app experiences in Copilot Studio agents",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-02T22:56:59.2759925Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570434": {
+   "title": "Microsoft Copilot Studio: Enabling makers to require human approval for tool calls",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-01T22:59:38.0107578Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570435": {
+   "title": "Microsoft Copilot Studio: Streamlining experiences from Copilot Studio Agents in Microsoft 365 Copilot",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-01T22:59:38.0107578Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570641": {
+   "title": "Dynamics 365 Field Service: Streamline mobile work with an optimized Subgrid control",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "Rolling out",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-03T00:14:11.2188096Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "admin/maker must enable"
+  },
+  "570669": {
+   "title": "Microsoft Copilot Studio: Discover and use shared plugins in Copilot Studio",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-09T22:04:35.4607568Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570855": {
+   "title": "Dynamics 365 Field Service: Bring project material plans into field execution",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-16T22:57:03.3982718Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570856": {
+   "title": "Dynamics 365 Field Service: Capture project expenses directly from Field Service Work Orders",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-06T22:56:31.0532139Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570857": {
+   "title": "Dynamics 365 Field Service: Track costs for non-billable field work",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-28T22:58:08.5520989Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570858": {
+   "title": "Dynamics 365 Field Service: Support multiple warehouse assignments for field technicians",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-25T22:37:50.9407981Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570859": {
+   "title": "Dynamics 365 Field Service: Enhanced visibility into work order financial performance",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-24T22:58:55.6218549Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570860": {
+   "title": "Dynamics 365 Field Service: Automatically complete Project Tasks when field work is finished",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-16T22:57:03.3982718Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570861": {
+   "title": "Dynamics 365 Field Service: Choose how work order services flow into project financials",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-22T22:57:16.2232057Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570862": {
+   "title": "Dynamics 365 Field Service: Support multiple payers across Work Order lines",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-25T22:37:50.9407981Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570863": {
+   "title": "Dynamics 365 Field Service: Book Work Orders with Multiple Requirements",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-17T23:00:45.5172554Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570864": {
+   "title": "Dynamics 365 Field Service: Keep Project Staffing and Field Service Scheduling Aligned",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-21T23:02:10.3273945Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570865": {
+   "title": "Microsoft Dataverse: Prompt column values in bulk for existing records (backfill)",
+   "products": [
+    "Power Apps",
+    "Microsoft Dataverse",
+    "Microsoft Power Platform governance and administration"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-15T22:47:30.2267672Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "570967": {
+   "title": "Microsoft Power Platform governance and administration: Maker Guidelines",
+   "products": [
+    "Microsoft Power Platform governance and administration"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-25T22:37:50.9407981Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571191": {
+   "title": "Dynamics 365 Customer Service: Detailed quality evaluation score breakdown",
+   "products": [
+    "Dynamics 365 Contact Center",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-21T23:04:49.2517543Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571192": {
+   "title": "Dynamics 365 Customer Service: Support Not Applicable answer option for quality evaluation criteria",
+   "products": [
+    "Dynamics 365 Contact Center",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-21T23:04:49.2517543Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571193": {
+   "title": "Dynamics 365 Customer Service: Inactivate quality evaluation records",
+   "products": [
+    "Dynamics 365 Contact Center",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-21T23:04:49.2517543Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571194": {
+   "title": "Microsoft Copilot Studio: Cost visibility in Preview Chat and History",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-15T23:00:36.9110325Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571195": {
+   "title": "Microsoft Copilot Studio: Cost visibility in Agent Evaluations",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-15T23:00:36.9110325Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571196": {
+   "title": "Microsoft Copilot Studio: Cost visibility in Monitor tab",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-15T23:00:36.9110325Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571300": {
+   "title": "Dynamics 365 Field Service: Manage rental service demand with work order requests",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-12",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-17T23:00:45.5172554Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571301": {
+   "title": "Dynamics 365 Customer Service: Quality evaluation supports custom Case-like records evaluation",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-06T22:56:31.0532139Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571302": {
+   "title": "Dynamics 365 Customer Service: Quality evaluation supports knowledge source in criteria",
+   "products": [
+    "Dynamics 365 Contact Center",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-21T23:04:49.2517543Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571305": {
+   "title": "Microsoft Copilot Studio: Support for sensitive documents protected with Microsoft Purview Information Protection (MPIP)",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-19T23:15:15.888166Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571663": {
+   "title": "Dynamics 365 Field Service: Microsoft Copilot in Field Service Mobile app",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-15T22:47:30.2267672Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571664": {
+   "title": "Dynamics 365 Field Service: Create and apply reusable maintenance plans to assets",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-24T22:58:55.6218549Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571665": {
+   "title": "Dynamics 365 Field Service: Plan asset maintenance using time, actual usage, and service sequences",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-23T22:59:12.1882776Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571666": {
+   "title": "Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead window",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-30T23:31:03.3895855Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571667": {
+   "title": "Dynamics 365 Field Service: Forecast asset usage to predict maintenance due dates",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-23T22:59:12.1882776Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571668": {
+   "title": "Dynamics 365 Field Service: Forecast planned maintenance demand",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-23T22:59:12.1882776Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571669": {
+   "title": "Dynamics 365 Field Service: Optimize asset maintenance schedules using completed service",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-23T22:59:12.1882776Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571670": {
+   "title": "Dynamics 365 Field Service: Review and visualize an asset's maintenance schedules",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-24T22:58:55.6218549Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571671": {
+   "title": "Dynamics 365 Field Service: Onboard mid-lifecycle assets into maintenance plans",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-24T22:58:55.6218549Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571672": {
+   "title": "Dynamics 365 Field Service: Expand your service offering through subcontractors without the onboarding overhead",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-25T22:37:50.9407981Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571673": {
+   "title": "Dynamics 365 Field Service: Close out bookings and work orders from subcontractor service reports",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-24T22:58:55.6218549Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571674": {
+   "title": "Dynamics 365 Field Service: Process subcontractor photos, completion documents, and inspection results",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-24T22:58:55.6218549Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571675": {
+   "title": "Dynamics 365 Field Service: Automate optimizations with Scheduling Operations Agent",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-04",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-02T22:01:21.5170479Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571678": {
+   "title": "Dynamics 365 Customer Service: Service tools, skills and plugins are now available for Cowork, Code and Scout",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-30T23:31:03.3895855Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571679": {
+   "title": "Dynamics 365 Supply Chain Management: Improve rental operations and fulfillment",
+   "products": [
+    "Dynamics 365 Field Service",
+    "Dynamics 365 Finance",
+    "Dynamics 365 Supply Chain Management"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-08",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-27T23:05:02.1939363Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571681": {
+   "title": "Power Apps: Modern, refreshed look for the mail app",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-13T23:01:05.8995658Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571682": {
+   "title": "Power Apps: Modern, refreshed look for embedded model-driven apps",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-13T23:01:05.8995658Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "auto-enabled"
+  },
+  "571880": {
+   "title": "Microsoft Copilot Studio: Discover & Add Skills from the skill catalog",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-29T23:05:21.5881807Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "571888": {
+   "title": "Power Apps: Model-driven applications in Business Apps in Work IQ",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-12T23:01:05.1232604Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "572682": {
+   "title": "Power Apps: Control information density in model-driven apps",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-13T23:01:05.8995658Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573239": {
+   "title": "Dynamics 365 Field Service: Preserve actual booking End Time when completion is recorded later",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": "2026-12",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-28T23:04:31.7166235Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573240": {
+   "title": "Dynamics 365 Field Service: Modernize the mobile offline foundation",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-04T23:59:50.7561907Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573241": {
+   "title": "Dynamics 365 Field Service: Enhance mobile offline up-sync",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-04T23:59:50.7561907Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573242": {
+   "title": "Dynamics 365 Field Service: Improve mobile offline reliability across network conditions",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-04T23:59:50.7561907Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573243": {
+   "title": "Dynamics 365 Field Service: Use AI recommendations for mobile offline profile configuration",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-11",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-03T00:14:11.2188096Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573244": {
+   "title": "Dynamics 365 Finance and Operations cross-app: Migrate finance and operations environments from Lifecycle Services to Power Platform admin center",
+   "products": [
+    "Dynamics 365 Finance",
+    "Dynamics 365 Supply Chain Management",
+    "Dynamics 365 Project Operations",
+    "Dynamics 365 Commerce",
+    "Microsoft Dataverse",
+    "Dynamics 365 Finance and Operations cross-app",
+    "Microsoft Power Platform governance and administration"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-01T23:00:07.0386131Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573277": {
+   "title": "Power Pages: Create Power Pages SPA site from the Power Pages studio",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High",
+    "DoD"
+   ],
+   "modified": "2026-10-13T23:01:05.8995658Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573278": {
+   "title": "Power Automate: Schedule desktop flows directly with Scheduled Triggers",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High",
+    "DoD"
+   ],
+   "modified": "2026-10-06T22:56:31.0532139Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573279": {
+   "title": "Power Apps: Prompt Columns - multiple lines of text output",
+   "products": [
+    "Power Apps",
+    "Microsoft Dataverse"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-15T22:47:30.2267672Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573292": {
+   "title": "Power Automate: Build and visualize desktop flows using Flowchart mode",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High",
+    "DoD"
+   ],
+   "modified": "2026-10-06T22:56:31.0532139Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573373": {
+   "title": "Dynamics 365 Sales: Sales tools, skills and plugin are now available in Copilot Cowork",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-30T23:31:03.3895855Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573381": {
+   "title": "Dynamics 365 Customer Service: Service tools, skills and plugins are now available for Code",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-30T23:31:03.3895855Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "573382": {
+   "title": "Dynamics 365 Customer Service: Service tools, skills and plugins are now available for Scout",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-09-30T23:31:03.3895855Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "574104": {
+   "title": "Power Apps: Manage model-driven app AI features from consolidated settings",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-13T23:01:05.8995658Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "admin/maker must enable"
+  },
+  "574112": {
+   "title": "Dynamics 365 Customer Service: Shared analytics for historical reporting",
+   "products": [
+    "Dynamics 365 Contact Center",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Rolling out",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-28T23:04:31.7166235Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "574114": {
+   "title": "Dynamics 365 Customer Service: Shared analytics foundation for historical reporting",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-29T23:01:00.8979846Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "574121": {
+   "title": "Microsoft Dataverse: Add users without licenses to activity recipient fields",
+   "products": [
+    "Microsoft 365 app",
+    "Dynamics 365 Sales",
+    "Dynamics 365 Customer Service",
+    "Microsoft Dataverse"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-19T23:15:15.888166Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "574364": {
+   "title": "Dynamics 365 Sales: Choose the data sources AI-powered Data Enrichment uses, including CRM notes",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "Rolling out",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-09T22:04:35.4607568Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "575294": {
+   "title": "Power Apps: New view layout in model-driven apps",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-12",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-04T23:59:50.7561907Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "admin/maker must enable"
+  },
+  "575295": {
+   "title": "Power Apps: Form fill assistance in apps can provide suggestions for existing values",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-21T23:02:10.3273945Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "575296": {
+   "title": "Power Apps: Form fill assistance supports more field types",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-21T23:02:10.3273945Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576178": {
+   "title": "Power Apps: Access updated visuals for row summaries across forms and views",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-16T22:00:35.2812198Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "auto-enabled"
+  },
+  "576272": {
+   "title": "Copilot Studio: Computer Use for web browsing on Microsoft Copilot Harness",
+   "products": [
+    "Microsoft Copilot Studio"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-11",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-28T20:19:16.9900551Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576279": {
+   "title": "Power Apps: Model-driven apps - Use row summaries in US Government clouds",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-23T23:10:38.23744Z",
+   "badge": "WHITE",
+   "region_note": "Gov clouds only (GCC, GCC High)",
+   "feature_scope": "admin/maker must enable"
+  },
+  "576280": {
+   "title": "Power Apps: Form fill assistance using Microsoft 365 files in model-driven apps",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-04T00:02:09.0247841Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "admin/maker must enable"
+  },
+  "576281": {
+   "title": "Power Apps: Form fill assistance using speech as input in model-driven apps",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T21:59:27.9147925Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "auto-enabled"
+  },
+  "576282": {
+   "title": "Power Apps: Monitor generative pages with out-of-the-box Application Insights telemetry",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-21T23:02:10.3273945Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "admin/maker must enable"
+  },
+  "576283": {
+   "title": "Power Apps: Use Power Platform connectors in generative pages",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-23T21:59:27.9147925Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "admin/maker must enable"
+  },
+  "576284": {
+   "title": "Power Apps: Use Dataverse custom APIs in generative pages",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High"
+   ],
+   "modified": "2026-10-21T23:02:10.3273945Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "admin/maker must enable"
+  },
+  "576285": {
+   "title": "Power Apps: Expand model access and Maker Studio availability for generative pages via GitHub",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T21:59:27.9147925Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "admin/maker must enable"
+  },
+  "576294": {
+   "title": "Dynamics 365 Sales: Create product rules to guide sellers to valid product configurations",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-03",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T22:58:40.9391102Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576295": {
+   "title": "Dynamics 365 Sales: Create pricing rules for attribute-based and volume-based pricing",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-03",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T22:58:40.9391102Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576395": {
+   "title": "Power Pages: Design studio - Enhance OpenID Connect with encrypted token support",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-14T22:53:09.261502Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576637": {
+   "title": "Dynamics 365 Sales: Seller experiences - Clone and share Sales Development agent configuration across teams",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Sales"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-04",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T17:39:50.7249877Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576640": {
+   "title": "Dynamics 365 Sales: Lead management - Prioritize your hottest leads first with next best actions",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T17:39:54.3880733Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576739": {
+   "title": "Dynamics 365 Sales: Opportunity acceleration - Enable custom source onboarding in Recommended Action",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:08:25.036857Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576745": {
+   "title": "Dynamics 365 Sales: Seller experiences - Streamline Quick Campaigns for confident, one-time bulk email outreach",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:08:29.4231121Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576748": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Monitor intraday performance against the forecast",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:08:32.955616Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576750": {
+   "title": "Power Pages: Design studio - Unify Power Pages authorization by merging web role with Dataverse security role",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-07",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:08:35.4159961Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576752": {
+   "title": "Microsoft Dataverse: Microsoft 365 collaboration - Discover, build, customize, and extend with management MCP server",
+   "products": [
+    "Microsoft Dataverse"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": "2026-03",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:08:36.7930778Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576761": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Detect intraday volume spikes with workforce alerts",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:08:45.4220075Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576765": {
+   "title": "Power Automate: Process mining - Enable Process Intelligence Studio in object-centric process mining",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:08:49.6083482Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576775": {
+   "title": "Dynamics 365 Customer Service: Copilot and AI innovation - Classify emails by category and subcategory with Case Management Agent",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:08:55.688507Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576781": {
+   "title": "PowerApps: Building modern apps - Modernize model-driven apps with the header and navigation refresh feature",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "Rolling out",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2025-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:08:59.9136726Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "admin/maker must enable"
+  },
+  "576782": {
+   "title": "PowerApps: Building modern apps - Use CLI to discover, create, and wire connectors in code apps",
+   "products": [
+    "Power Apps"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:00.607348Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576784": {
+   "title": "Power Automate: Desktop flows - Debug flows using variable default values",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:02.0281407Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576785": {
+   "title": "Power Automate: Desktop flows - Measure time and cost savings for desktop flows",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:03.797499Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576786": {
+   "title": "Power Automate: Desktop flows - Encrypt and decrypt data with PGP",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:04.603763Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576787": {
+   "title": "Dynamics 365 Sales: Opportunity acceleration - Accelerate Sales Opportunity Agent deployment with simplified admin configuration",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:05.3207587Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576788": {
+   "title": "Microsoft Dataverse: Improved enterprise experiences in Power Platform - Enhance Dataverse record descriptions for Copilot /mention",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Dataverse"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": "2026-07",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:06.0676235Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576790": {
+   "title": "Dynamics 365 Field Service: Boost technician productivity - Capture and review notes with mobile notes control",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:07.4135538Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576793": {
+   "title": "Power Pages: Design studio - Support Power BI embed token v2 for Power Pages",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:09.5118831Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576794": {
+   "title": "Power Automate: Desktop flows - Configure notifications for desktop flow checker in admin portal",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:10.1780163Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576806": {
+   "title": "Dynamics 365 Sales: Seller experiences - Copy opportunities for repeat deals",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:18.3907577Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576810": {
+   "title": "Microsoft Dataverse: Improved enterprise experiences in Power Platform - Improve bulk delete user experience",
+   "products": [
+    "Microsoft Dataverse"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:22.1147245Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576814": {
+   "title": "Dynamics 365 Sales: Opportunity acceleration - Chat about sales opportunity agent insights from inside Sales agent",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Sales"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:24.9974824Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576817": {
+   "title": "Microsoft Dataverse: Finance and operations cross application integration - Monitor data management framework with Azure Monitor Application Insights",
+   "products": [
+    "Microsoft Dataverse"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:27.2443516Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576818": {
+   "title": "Dynamics 365 Customer Service: Copilot and AI innovation - Improve customer outcomes with Service Agent in Microsoft 365 Copilot",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-03",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:27.9282888Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576820": {
+   "title": "Dynamics 365 Field Service: Optimize resource scheduling - Cancel segments of a booking in aggregate views",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:29.403966Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576821": {
+   "title": "Dynamics 365 Field Service: Optimize resource scheduling - View full screen map mode on schedule board",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:30.0979596Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576822": {
+   "title": "Dynamics 365 Field Service: Optimize resource scheduling - Move multiple bookings at once to new resource",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:30.7329813Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576823": {
+   "title": "Dynamics 365 Field Service: Optimize resource scheduling - Move multiple bookings at once by a set offset",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:31.4492042Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576824": {
+   "title": "Power Automate: Cloud flows - Share Process license capacity across workflows",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:32.1334517Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576827": {
+   "title": "Dynamics 365 Customer Insights - Data: Turbocharge your pipeline to drive growth - Target right audience based on signals from earlier campaigns",
+   "products": [
+    "Dynamics 365 Customer Insights - Data"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:34.2416279Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576835": {
+   "title": "Dynamics 365 Customer Insights - Data: Elevate customer experiences - Use Microsoft Fabric OneLake as a data source",
+   "products": [
+    "Dynamics 365 Customer Insights - Data"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:39.758294Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576840": {
+   "title": "Dynamics 365 Field Service: Boost technician productivity - Add simplified lookup control",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:43.3141504Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576843": {
+   "title": "Microsoft Dataverse: Activate Enterprise Data in Copilot - Create Dataverse agent users with Microsoft Entra agent identity",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Dataverse"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:45.3633012Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576850": {
+   "title": "Dynamics 365 Sales: Copilot and AI innovation - Use Dynamics 365 Sales skills in Microsoft 365 Copilot Cowork",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Sales"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:47.1623079Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576851": {
+   "title": "Dynamics 365 Customer Service: Copilot and AI innovation - Use Copilot Cowork to orchestrate insights and actions for representatives",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:47.829974Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576852": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Create capacity plans for planning groups",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:48.6016252Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576853": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Associate forecast scenarios with planning groups",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:49.4481183Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576854": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Filter adherence historical analytics by planning group",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:50.1969713Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576855": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Filter the adherence tracker by planning group",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:50.8939284Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576863": {
+   "title": "Microsoft Power Platform governance and administration: Security and compliance - Prevent sending sensitive data to Purview audit logs",
+   "products": [
+    "Microsoft Power Platform governance and administration"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:56.0263943Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576868": {
+   "title": "Power Automate: Process mining - Create and visualize custom KPIs in the process intelligence experience",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:09:59.8321054Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576869": {
+   "title": "Power Automate: Process mining - Analyze your processes in the process intelligence experience",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-03",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:10:00.5208401Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576870": {
+   "title": "Power Automate: Process mining - Analyze processes using object-centric process mining",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2025-11",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:10:01.2543108Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576876": {
+   "title": "Microsoft Dataverse: Build your low code hyperscale backend on Dataverse - Build your agentic flows with Dataverse SDK for Python",
+   "products": [
+    "Microsoft Dataverse"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2025-11",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:10:05.4078222Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576884": {
+   "title": "Dynamics 365 Field Service: Optimize resource scheduling - Optimize multiple resources with Scheduling Operations Agent",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-03",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:10:11.2033031Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "576886": {
+   "title": "Dynamics 365 Field Service: Boost technician productivity - Disable clickthrough on lookup values in forms",
+   "products": [
+    "Dynamics 365 Field Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-16T19:10:12.6082447Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577183": {
+   "title": "Microsoft Power Platform governance and administration: Multi-grader comparison",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Power Platform governance and administration"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-20T23:00:34.0277046Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577184": {
+   "title": "Dynamics 365 Customer Service: Manage intraday operations with AI agent",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-03",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-20T23:00:34.0277046Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577185": {
+   "title": "Microsoft Dataverse: Enable semantic data understanding for agentic use",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Dataverse"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-20T23:00:34.0277046Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577417": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Improve engagement and message timing with Outreach Optimization Agent",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-04",
+   "previewAvailabilityDate": "2026-07",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T22:58:40.9391102Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577418": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Create journeys in minutes with Journey Creation Agent",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-04",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T22:58:40.9391102Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577419": {
+   "title": "Power Pages: SDK (Software Development Kit)",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-03",
+   "previewAvailabilityDate": "2027-01",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T22:58:40.9391102Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577746": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Marketing tools, skills and plugin are now available in Copilot Cowork",
+   "products": [
+    "Dynamics 365 Customer Insights - Data",
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-04T00:02:09.0247841Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577789": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Boost customer confidence with branded content links",
+   "products": [
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:45.3352706Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577791": {
+   "title": "Power Automate: Desktop flows - Export work queue items to CSV",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High",
+    "DoD"
+   ],
+   "modified": "2026-10-22T23:45:44.0738739Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577796": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Enforce governance policies on email attachments",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T23:10:35.8438985Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577798": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Manage policy strictness to enforce governance policies",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T23:10:34.7261814Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577799": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Enable question-level weighting for quality evaluation scoring",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:21.5053314Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577800": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Automatically generate evaluation summary from final results",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:24.7911922Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577803": {
+   "title": "Power Automate: Cloud flows - View property value expanded inline in new cloud flow designer",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:28.0193278Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577804": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Automatically update emails with the latest content",
+   "products": [
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:35.907573Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577805": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Set message expirations to keep communication relevant",
+   "products": [
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T00:00:39.1251231Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577806": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Turbocharge your pipeline to drive growth - Transform customer journeys into action with record creation",
+   "products": [
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:30.3866693Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577807": {
+   "title": "Dynamics 365 Field Service: Optimize resource scheduling - Optimize schedules with Scheduling Operations Agent",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Field Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-03",
+   "previewAvailabilityDate": "2025-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:32.3170036Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577809": {
+   "title": "Power Pages: Design studio - Configure authentication with security agent",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:34.6911276Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577810": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Update live segments without interrupting ongoing journeys",
+   "products": [
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-12",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:35.7529424Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577811": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Enable advanced personalization using simple formulas to modify text, dates, and numbers",
+   "products": [
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:48.479416Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577813": {
+   "title": "Power Pages: Power Pages Copilot - Use Power Pages MCP server capabilities",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-01",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:38.7324115Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577814": {
+   "title": "Dynamics 365 Customer Insights - Data: Agents and Copilot - Increase AI accuracy by grounding agents in customer insights",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Insights - Data"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:47.7886067Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577815": {
+   "title": "Microsoft Dataverse: Enable AI powered business workflows in Work IQ with Dataverse - Build Dataverse solutions with coding agents using Dataverse skills",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Microsoft Dataverse"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:41.2308449Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577816": {
+   "title": "Dynamics 365 Customer Insights - Data: Faster time to insights - Access unified profiles and insights in Fabric OneLake",
+   "products": [
+    "Dynamics 365 Customer Insights - Data"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:42.6960396Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577819": {
+   "title": "Dynamics 365 Customer Service: Copilot and AI innovation - View next best actions with Customer Intent Agent",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:45.3539979Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577821": {
+   "title": "Power Pages: Professional developer experiences - Control Power Pages components using client APIs",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2025-11",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:46.1434074Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577825": {
+   "title": "Power Pages: Administration and governance - Enable self-service site ownership transfer",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-09",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:49.7082724Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577826": {
+   "title": "Power Automate: Process mining - Export object-centric process mining data to Microsoft Fabric semantic model",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:50.5873109Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577827": {
+   "title": "Power Automate: Process mining - Get support for normalized schema import for data ingestion",
+   "products": [
+    "Power Automate"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-08",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-22T23:45:51.2001553Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577834": {
+   "title": "Microsoft Copilot Studio: Copilot studio cost controls in MAC",
+   "products": [
+    "Microsoft 365",
+    "Microsoft 365 admin center",
+    "Microsoft Copilot Studio",
+    "Microsoft Power Platform governance and administration"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-10",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-29T23:01:00.8979846Z",
+   "badge": "OVERDUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577859": {
+   "title": "Power Pages: Track Power Pages performance and usage with monitor hub",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-27T23:05:02.1939363Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577869": {
+   "title": "Power Automate: AI-assisted UI Automation repair",
+   "products": [
+    "Power Automate",
+    "Microsoft Copilot (Microsoft 365)"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-03",
+   "previewAvailabilityDate": "2026-07",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-27T23:05:02.1939363Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577897": {
+   "title": "Power Pages: First Class Support for Connector APIs in Power Pages",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-06",
+   "previewAvailabilityDate": "2027-03",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-26T23:15:50.3506773Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "577900": {
+   "title": "Power Pages: Plugin support for GitHub Copilot CLI and Claude Code to create and edit traditional sites",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2026-11",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T21:59:27.9147925Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578062": {
+   "title": "Power Pages: Administration and governance - Manage external authentication providers with granular controls",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-01",
+   "previewAvailabilityDate": "2026-11",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High",
+    "DoD"
+   ],
+   "modified": "2026-10-23T22:45:54.5724814Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578064": {
+   "title": "Dynamics 365 Customer Service: Copilot and AI innovation - Resolve customer emails autonomously with AI",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-06",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T22:45:57.701861Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578067": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Enforce governance policy",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": "2026-05",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T22:46:02.3401797Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578070": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Modify and override submitted evaluations",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T22:46:06.2575883Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578071": {
+   "title": "Power Pages: Administration and governance - Configure site analytics and server logging",
+   "products": [
+    "Power Pages"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-02",
+   "previewAvailabilityDate": "2026-10",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)",
+    "GCC",
+    "GCC High",
+    "DoD"
+   ],
+   "modified": "2026-10-23T22:46:07.01647Z",
+   "badge": "YELLOW",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578072": {
+   "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Boost productivity with flexible views and search in segments",
+   "products": [
+    "Dynamics 365 Customer Insights - Journeys"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-06",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T22:46:09.2344799Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578074": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Enable enhanced screen recording controls for admins",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-04",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "GCC"
+   ],
+   "modified": "2026-10-23T22:46:10.4072Z",
+   "badge": "WHITE",
+   "region_note": "Gov clouds only (GCC)",
+   "feature_scope": "not stated"
+  },
+  "578075": {
+   "title": "Dynamics 365 Customer Service: Workforce engagement management - Enable enhanced screen recording controls for admins",
+   "products": [
+    "Dynamics 365 Customer Service"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T22:46:11.1502733Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578076": {
+   "title": "Dynamics 365 Sales: Lead management - Deploy multiple Sales Qualification Agents in a single environment",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Sales"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-09",
+   "previewAvailabilityDate": "2026-08",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T22:46:11.9383008Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578077": {
+   "title": "Dynamics 365 Sales: Lead management - Personalize outreach emails generated by Sales Qualification Agent",
+   "products": [
+    "Microsoft Copilot (Microsoft 365)",
+    "Dynamics 365 Sales"
+   ],
+   "status": "Launched",
+   "generalAvailabilityDate": "2026-07",
+   "previewAvailabilityDate": "2026-04",
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-10-23T22:46:12.7106449Z",
+   "badge": "GREEN",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  },
+  "578898": {
+   "title": "Dynamics 365 Sales: Autonomously generate quotes and drive sales with Sales Development Agent",
+   "products": [
+    "Dynamics 365 Sales"
+   ],
+   "status": "In development",
+   "generalAvailabilityDate": "2027-03",
+   "previewAvailabilityDate": null,
+   "cloudInstances": [
+    "Worldwide (Standard Multi-Tenant)"
+   ],
+   "modified": "2026-11-03T00:14:11.2188096Z",
+   "badge": "BLUE",
+   "region_note": "Worldwide cloud, region not stated",
+   "feature_scope": "not stated"
+  }
+ }
+}
