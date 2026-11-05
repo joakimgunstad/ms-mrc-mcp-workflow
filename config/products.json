@@ -1,0 +1,33 @@
+{
+  "_note": "Exact product facet values from get_recent_m365_roadmaps (include_facets=true), verified 2026-11-05. Re-run with include_facets=true if a product seems missing.",
+  "recipient": "joakim.gunstad@gmail.com",
+  "timezone": "Europe/Oslo",
+  "home_cloud_instance": "Worldwide (Standard Multi-Tenant)",
+  "coming_soon_window_days": 90,
+  "excluded_products": [
+    "Dynamics 365 Contact Center",
+    "Microsoft Contact Center Intelligence"
+  ],
+  "excluded_title_prefixes": [
+    "Dynamics 365 Contact Center",
+    "Microsoft Contact Center"
+  ],
+  "baseline_limits": { "green_full": 35, "yellow_full": 15, "blue_list": 15 },
+  "groups": {
+    "Dynamics 365 CRM": [
+      "Dynamics 365 Sales",
+      "Dynamics 365 Customer Service",
+      "Dynamics 365 Customer Insights - Journeys",
+      "Dynamics 365 Customer Insights - Data",
+      "Dynamics 365 Field Service"
+    ],
+    "Power Platform": [
+      "Power Apps",
+      "Power Automate",
+      "Power Pages",
+      "Microsoft Copilot Studio",
+      "Microsoft Dataverse",
+      "Microsoft Power Platform governance and administration"
+    ]
+  }
+}

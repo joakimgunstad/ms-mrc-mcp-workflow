@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mrc-mcp": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://www.microsoft.com/releasecommunications/mcp"],
+      "env": {}
+    }
+  }
+}
