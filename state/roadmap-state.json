@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-05T12:30:56+01:00",
+  "last_run": "2026-11-09T07:10:00+01:00",
   "items": {
     "561025": {
       "title": "SharePoint: Power Automate trigger and action for forms in SharePoint",
@@ -60,14 +60,14 @@
         "Microsoft Copilot (Microsoft 365)",
         "Microsoft Copilot Studio"
       ],
-      "status": "In development",
+      "status": "Launched",
       "generalAvailabilityDate": "2026-06",
       "previewAvailabilityDate": "2026-05",
       "cloudInstances": [
         "Worldwide (Standard Multi-Tenant)"
       ],
-      "modified": "2026-05-15T18:00:35.7626991Z",
-      "badge": "OVERDUE",
+      "modified": "2026-11-05T23:59:28.9983591Z",
+      "badge": "GREEN",
       "region_note": "Worldwide cloud, region not stated",
       "feature_scope": "not stated"
     },
@@ -758,7 +758,7 @@
       "feature_scope": "not stated"
     },
     "571305": {
-      "title": "Microsoft Copilot Studio: Support for sensitive documents protected with Microsoft Purview Information Protection (MPIP)",
+      "title": "Microsoft Copilot Studio: Support for sensitive documents protected with Microsoft Purview Information Protection (MPIP) ",
       "products": [
         "Microsoft Copilot Studio"
       ],
@@ -1068,7 +1068,7 @@
       "feature_scope": "not stated"
     },
     "571888": {
-      "title": "Power Apps: Model-driven applications in Business Apps in Work IQ",
+      "title": "Power Apps: Model-driven applications in Business Apps in Work IQ  ",
       "products": [
         "Power Apps"
       ],
@@ -1242,7 +1242,7 @@
       "feature_scope": "not stated"
     },
     "573279": {
-      "title": "Power Apps: Prompt Columns - multiple lines of text output",
+      "title": "Power Apps: Prompt Columns - multiple lines of text output    ",
       "products": [
         "Power Apps",
         "Microsoft Dataverse"
@@ -1545,7 +1545,7 @@
       "feature_scope": "auto-enabled"
     },
     "576282": {
-      "title": "Power Apps: Monitor generative pages with out-of-the-box Application Insights telemetry",
+      "title": "Power Apps: Monitor generative pages with out-of-the-box Application Insights telemetry ",
       "products": [
         "Power Apps"
       ],
@@ -1631,7 +1631,7 @@
       "feature_scope": "not stated"
     },
     "576295": {
-      "title": "Dynamics 365 Sales: Create pricing rules for attribute-based and volume-based pricing",
+      "title": "Dynamics 365 Sales: Create pricing rules for attribute-based and volume-based pricing ",
       "products": [
         "Dynamics 365 Sales"
       ],
@@ -2519,7 +2519,7 @@
       "cloudInstances": [
         "Worldwide (Standard Multi-Tenant)"
       ],
-      "modified": "2026-10-22T22:58:40.9391102Z",
+      "modified": "2026-11-06T23:04:41.494501Z",
       "badge": "YELLOW",
       "region_note": "Worldwide cloud, region not stated",
       "feature_scope": "not stated"
