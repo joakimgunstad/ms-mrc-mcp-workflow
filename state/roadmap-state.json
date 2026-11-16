@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-09T07:10:00+01:00",
+  "last_run": "2026-11-16T07:10:00+01:00",
   "items": {
     "561025": {
       "title": "SharePoint: Power Automate trigger and action for forms in SharePoint",
@@ -34,23 +34,6 @@
       ],
       "modified": "2026-11-04T00:02:09.0247841Z",
       "badge": "GREEN",
-      "region_note": "Worldwide cloud, region not stated",
-      "feature_scope": "not stated"
-    },
-    "562220": {
-      "title": "Microsoft Copilot Studio: Supercharge your workflows with computer use",
-      "products": [
-        "Microsoft Copilot (Microsoft 365)",
-        "Microsoft Copilot Studio"
-      ],
-      "status": "Cancelled",
-      "generalAvailabilityDate": "2026-10",
-      "previewAvailabilityDate": "2026-04",
-      "cloudInstances": [
-        "Worldwide (Standard Multi-Tenant)"
-      ],
-      "modified": "2026-10-26T23:15:50.3506773Z",
-      "badge": "CANCEL",
       "region_note": "Worldwide cloud, region not stated",
       "feature_scope": "not stated"
     },
@@ -1260,6 +1243,24 @@
       "region_note": "Worldwide cloud, region not stated",
       "feature_scope": "not stated"
     },
+    "573290": {
+      "title": "Work IQ: Business Skills to manage your business processes in Work IQ MCP",
+      "products": [
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Dataverse",
+        "Work IQ"
+      ],
+      "status": "In development",
+      "generalAvailabilityDate": "2026-11",
+      "previewAvailabilityDate": "2026-09",
+      "cloudInstances": [
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "modified": "2026-11-11T00:53:34.0269162Z",
+      "badge": "YELLOW",
+      "region_note": "Worldwide cloud, region not stated",
+      "feature_scope": "not stated"
+    },
     "573292": {
       "title": "Power Automate: Build and visualize desktop flows using Flowchart mode",
       "products": [
@@ -1275,6 +1276,24 @@
         "DoD"
       ],
       "modified": "2026-10-06T22:56:31.0532139Z",
+      "badge": "YELLOW",
+      "region_note": "Worldwide cloud, region not stated",
+      "feature_scope": "not stated"
+    },
+    "573293": {
+      "title": "Microsoft Copilot (Microsoft 365): Copilot Cowork: Access Business Applications with Work IQ",
+      "products": [
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Dataverse",
+        "Work IQ"
+      ],
+      "status": "In development",
+      "generalAvailabilityDate": "2026-12",
+      "previewAvailabilityDate": "2026-09",
+      "cloudInstances": [
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "modified": "2026-11-11T00:53:34.0269162Z",
       "badge": "YELLOW",
       "region_note": "Worldwide cloud, region not stated",
       "feature_scope": "not stated"
@@ -1424,7 +1443,7 @@
       "cloudInstances": [
         "Worldwide (Standard Multi-Tenant)"
       ],
-      "modified": "2026-11-04T23:59:50.7561907Z",
+      "modified": "2026-11-11T00:51:09.3815056Z",
       "badge": "YELLOW",
       "region_note": "Worldwide cloud, region not stated",
       "feature_scope": "admin/maker must enable"
@@ -2952,6 +2971,22 @@
       "region_note": "Worldwide cloud, region not stated",
       "feature_scope": "not stated"
     },
+    "577860": {
+      "title": "Microsoft Power Platform governance and administration: Secure Dataverse record with column-based filtering",
+      "products": [
+        "Microsoft Power Platform governance and administration"
+      ],
+      "status": "In development",
+      "generalAvailabilityDate": "2027-01",
+      "previewAvailabilityDate": "2026-10",
+      "cloudInstances": [
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "modified": "2026-11-11T00:56:01.1053638Z",
+      "badge": "YELLOW",
+      "region_note": "Worldwide cloud, region not stated",
+      "feature_scope": "not stated"
+    },
     "577869": {
       "title": "Power Automate: AI-assisted UI Automation repair",
       "products": [
@@ -3172,6 +3207,22 @@
       "region_note": "Worldwide cloud, region not stated",
       "feature_scope": "not stated"
     },
+    "578863": {
+      "title": "Dynamics 365 Customer Insights - Journeys: Build audiences faster with reusable segment templates",
+      "products": [
+        "Dynamics 365 Customer Insights - Journeys"
+      ],
+      "status": "In development",
+      "generalAvailabilityDate": "2026-11",
+      "previewAvailabilityDate": null,
+      "cloudInstances": [
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "modified": "2026-11-12T01:35:00.1171192Z",
+      "badge": "YELLOW",
+      "region_note": "Worldwide cloud, region not stated",
+      "feature_scope": "not stated"
+    },
     "578898": {
       "title": "Dynamics 365 Sales: Autonomously generate quotes and drive sales with Sales Development Agent",
       "products": [
@@ -3185,6 +3236,89 @@
       ],
       "modified": "2026-11-03T00:14:11.2188096Z",
       "badge": "BLUE",
+      "region_note": "Worldwide cloud, region not stated",
+      "feature_scope": "not stated"
+    },
+    "579899": {
+      "title": "Power Apps: Use the modernized Personal settings experience",
+      "products": [
+        "Power Apps"
+      ],
+      "status": "In development",
+      "generalAvailabilityDate": "2026-12",
+      "previewAvailabilityDate": null,
+      "cloudInstances": [
+        "Worldwide (Standard Multi-Tenant)",
+        "GCC",
+        "GCC High",
+        "DoD"
+      ],
+      "modified": "2026-11-13T23:01:18.5506294Z",
+      "badge": "YELLOW",
+      "region_note": "Worldwide cloud + GCC/GCC High/DoD, region not stated",
+      "feature_scope": "auto-enabled (Users, enabled by default)"
+    },
+    "579903": {
+      "title": "Dynamics 365 Customer Insights - Journeys: Send each message only once with deduplication for SMS and custom channels",
+      "products": [
+        "Dynamics 365 Customer Insights - Journeys"
+      ],
+      "status": "In development",
+      "generalAvailabilityDate": "2026-12",
+      "previewAvailabilityDate": null,
+      "cloudInstances": [
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "modified": "2026-11-12T01:35:00.1171192Z",
+      "badge": "YELLOW",
+      "region_note": "Worldwide cloud, region not stated",
+      "feature_scope": "not stated"
+    },
+    "579974": {
+      "title": "Power Automate: Credentials - Integration with Delinea secret server",
+      "products": [
+        "Power Automate"
+      ],
+      "status": "In development",
+      "generalAvailabilityDate": "2027-03",
+      "previewAvailabilityDate": null,
+      "cloudInstances": [
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "modified": "2026-11-12T01:35:00.1171192Z",
+      "badge": "BLUE",
+      "region_note": "Worldwide cloud, region not stated",
+      "feature_scope": "not stated"
+    },
+    "579975": {
+      "title": "Power Automate: Direct triggers for desktop flows",
+      "products": [
+        "Power Automate"
+      ],
+      "status": "In development",
+      "generalAvailabilityDate": "2027-03",
+      "previewAvailabilityDate": "2027-01",
+      "cloudInstances": [
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "modified": "2026-11-12T01:35:00.1171192Z",
+      "badge": "YELLOW",
+      "region_note": "Worldwide cloud, region not stated",
+      "feature_scope": "not stated"
+    },
+    "579982": {
+      "title": "Dynamics 365 Customer Insights - Journeys: Create event experience that match your business structure by supporting leads, contacts, or both​",
+      "products": [
+        "Dynamics 365 Customer Insights - Journeys"
+      ],
+      "status": "In development",
+      "generalAvailabilityDate": "2027-06",
+      "previewAvailabilityDate": "2027-02",
+      "cloudInstances": [
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "modified": "2026-11-12T01:35:00.1171192Z",
+      "badge": "YELLOW",
       "region_note": "Worldwide cloud, region not stated",
       "feature_scope": "not stated"
     }
